@@ -6,5 +6,7 @@ Domain Generation Algorithms (DGAs) are often used by malware to generate domain
 The project is based on testing different machine algorithms learning for the detection of malicious domain names, adapting them to the assigned dataset and then carrying out a binary classification, thus comparing the various results obtained (metrics) of the different algorithms. In particular, the following algorithms will be tested: LSTM, Masked N-Grams, Bilbo and ELMo. <br>
 The files related to the Bilbo algorithm are found in the following repository.
 
+Check the paper for more information.  
+  
 ### Author
 Xiao Li Savio Feng
